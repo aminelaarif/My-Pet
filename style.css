@@ -1,0 +1,81 @@
+.header{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: brown;
+    border-radius: 10%;
+}
+
+.color1{
+    color: orange;
+}
+
+html{
+    background: url(/img/house.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;;
+}
+
+#img1{
+    margin-left: 400px;
+    margin-top: 150px;
+   
+    
+    
+}
+
+.mytext{
+    color: red;
+    margin-left:500px;
+    margin-top: 30px;
+}
+
+#buttons  {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+
+.feed{
+    border-radius: 20px;
+    background-color: orange;
+    color: blueviolet;
+}
+
+#sleep {
+    border-radius: 20px;
+    background-color: orange;
+    color: blueviolet;
+}
+
+#play { border-radius: 20px;
+    background-color: orange;
+    color: blueviolet;
+}
+
+#instance{
+    border-radius: 20px;
+    background-color: orange;
+    color: blueviolet;
+}
+
+
+#ignore {
+    border-radius: 20px;
+    background-color: orange;
+    color: blueviolet;
+}
+
+
+.Background1{
+    margin-top: 80px;
+   
+}
+
+
+ 
+  
+
